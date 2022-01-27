@@ -48,6 +48,7 @@ echo $lotr->dati();
  */
 ?>
 
+<!-- Creo un template html per rendre bellino l'esercizio -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
